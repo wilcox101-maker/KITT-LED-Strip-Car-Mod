@@ -1,0 +1,9 @@
+# Build / toolchain
+.pio/
+.pioenvs/
+build/
+*.bin
+*.elf
+*.hex
+__pycache__/
+.DS_Store
